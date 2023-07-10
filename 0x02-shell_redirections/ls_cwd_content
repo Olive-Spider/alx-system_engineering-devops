@@ -1,0 +1,16 @@
+total 56
+drwxrwxr-x 2 livya livya 4096 Jul 10 21:57 .
+drwxrwxr-x 6 livya livya 4096 Jul 10 15:04 ..
+-rwxrw-r-- 1 livya livya   32 Jul 10 15:30 0-hello_world
+-rwxrw-r-- 1 livya livya   28 Jul 10 15:42 1-confused_smiley
+-rwxrw-r-- 1 livya livya   28 Jul 10 15:44 2-hellofile
+-rwxrw-r-- 1 livya livya   39 Jul 10 15:52 3-twofiles
+-rwxrw-r-- 1 livya livya   35 Jul 10 15:54 4-lastlines
+-rwxrw-r-- 1 livya livya   35 Jul 10 15:58 5-firstlines
+-rwxrw-r-- 1 livya livya   40 Jul 10 16:04 6-third_line
+-rwxrw-r-- 1 livya livya   99 Jul 10 21:45 7-file
+-rwxrw-r-- 1 livya livya   36 Jul 10 21:52 8-cwd_state
+-rw-rw-r-- 1 livya livya   12 Jul 10 21:45 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 livya livya  801 Jul 10 16:09 iacta
+-rw-rw-r-- 1 livya livya    0 Jul 10 21:57 ls_cwd_content
+-rw-rw-r-- 1 livya livya   24 Jul 10 15:19 README.md

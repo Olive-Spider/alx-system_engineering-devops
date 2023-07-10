@@ -1,2 +1,2 @@
 #!/bin/bash
-telnet -t vtnt.telnet.org
+telnet towel.blinkenlights.nl

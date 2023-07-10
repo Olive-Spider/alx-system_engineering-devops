@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x remove_c.sh
+tr -d "cC"
